@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ArkTS Development Case"
+    },
+    {
+      "name": "ArkTS_Development_Case",
+      "value": "ArkTS Development Case"
+    },
+    {
+      "name": "DaffodilsNumber",
+      "value": "Print the number of daffodils within 1000"
+    },
+    {
+      "name": "MultiplicationTable",
+      "value": "Print Multiplication Tables"
+    },
+    {
+      "name": "IsPalindromicString",
+      "value": "Determines whether a string is a palindromic string"
+    },
+    {
+      "name": "StringReversal",
+      "value": "String reversal"
+    },
+    {
+      "name": "IsLeapYear",
+      "value": "Determine whether it is a leap year"
+    },
+    {
+      "name": "DaffodilsNumberTitle",
+      "value": "Daffodils Number"
+    },
+    {
+      "name": "Judgment_of_leap_year",
+      "value": "Judgment of leap year"
+    },
+    {
+      "name": "Judgment_of_palindromic_string",
+      "value": "Judgment of palindromic string"
+    },
+    {
+      "name": "Multiplication_Table_Title",
+      "value": "Multiplication Tables"
+    },
+    {
+      "name": "check_info_in_log",
+      "value": "Please check in the log print"
+    }
+  ]
+}

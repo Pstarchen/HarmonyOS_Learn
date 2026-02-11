@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ArkTS开发案例"
+    },
+    {
+      "name": "ArkTS_Development_Case",
+      "value": "ArkTS开发案例"
+    },
+    {
+      "name": "DaffodilsNumber",
+      "value": "打印水仙花数"
+    },
+    {
+      "name": "MultiplicationTable",
+      "value": "打印九九乘法表"
+    },
+    {
+      "name": "IsPalindromicString",
+      "value": "判断字符串是否为回文字符串"
+    },
+    {
+      "name": "StringReversal",
+      "value": "字符串反转"
+    },
+    {
+      "name": "IsLeapYear",
+      "value": "判断是否为闰年"
+    },
+    {
+      "name": "DaffodilsNumberTitle",
+      "value": "水仙花数"
+    },
+    {
+      "name": "Judgment_of_leap_year",
+      "value": "闰年判断"
+    },
+    {
+      "name": "Judgment_of_palindromic_string",
+      "value": "回文字符串判断"
+    },
+    {
+      "name": "Multiplication_Table_Title",
+      "value": "九九乘法表"
+    },
+    {
+      "name": "check_info_in_log",
+      "value": "请在日志打印中查看"
+    }
+  ]
+}

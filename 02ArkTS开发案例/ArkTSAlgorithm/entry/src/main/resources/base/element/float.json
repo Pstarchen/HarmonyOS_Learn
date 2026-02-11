@@ -1,0 +1,64 @@
+{
+  "float": [
+    {
+      "name": "text_margin_top",
+      "value": "64vp"
+    },
+    {
+      "name": "text_margin_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "text_margin_left",
+      "value": "12vp"
+    },
+    {
+      "name": "text_margin_right",
+      "value": "20vp"
+    },
+    {
+      "name": "text_font_size",
+      "value": "30fp"
+    },
+    {
+      "name": "button_width",
+      "value": "288vp"
+    },
+    {
+      "name": "button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "button_margin_top",
+      "value": "12vp"
+    },
+    {
+      "name": "button_margin_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "dialog_text_margin_left",
+      "value": "10vp"
+    },
+    {
+      "name": "dialog_text_height",
+      "value": "72vp"
+    },
+    {
+      "name": "dialog_text_margin_top",
+      "value": "8vp"
+    },
+    {
+      "name": "dialog_padding",
+      "value": "24vp"
+    },
+    {
+      "name": "dialog_button_width",
+      "value": "296vp"
+    },
+    {
+      "name": "dialog_textInput_height",
+      "value": "48vp"
+    }
+  ]
+}
